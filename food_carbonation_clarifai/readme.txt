@@ -9,7 +9,7 @@ How to run the Application
 1.) Ensure that you have Xampp Install.
 2.) Ensure that You have php.
 3.) Edit settings.php file to enter clarifai API KEY.
-4.) Call up the application on Browser http://localhost/food_carbonation_assemblyai
+4.) Call up the application on Browser http://localhost/food_carbonation_clarifai
 
 
 

@@ -1,6 +1,4 @@
-﻿
-
-## Foods Carbon Emission AI using Clarifai AI
+﻿## Foods Carbon Emission AI By Clarifai AI
 An interactive Eco-awareness System design to  educate people and various communities on how the food they eat impacts on our
 environments by triggering global warming and greenhouse Gaseous Emissions. 
 
